@@ -8,8 +8,16 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lkphuong/first-example-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lkphuong/first-example-npm-package/issues"
+  },
+  "homepage": "https://github.com/lkphuong/irst-example-npm-package#readme",
+  "author": "phuonglk",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@types/node": "^22.13.1",
